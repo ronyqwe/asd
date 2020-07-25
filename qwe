@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7
+https://ul.cdn946.net:8443/hls/nl142axqap.m3u8?s=K4XNoA0K_O7XvT1twbMjYg&e=1595668484
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png", Canal 5 
+https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=gvJaqwf4ZN5Nbq9HIPZDhQ&e=1595668582
+
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png" , Fox
+https://u86715.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=qSxVtrk7w5gRhyVubR6GQA&e=1595668705
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png", Space 
+https://u65464.cdn884.net:8443/hls/ahd138j5ou0819g.m3u8?s=q6Ykfd15uW5q4WzzsCOLgw&e=1595668876
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" , Cinemax 
+https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=I51RIQgGJhXqCsn44LIEmg&e=1595669031
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" , HBO
+https://u65464.cdn884.net:8443/hls/liqi158i6t.m3u8?s=m16RY7cZXpEinnplXRk6LA&e=1595669182
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" , TNT 
+https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=GwF8GM4GC4JVfgUSvko6aw&e=1595669458
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" , AMC
+https://ul.cdn946.net:8443/hls/zz15ckophk5vu.m3u8?s=JMK6zFtPQqnbchVXKc8Qcw&e=1595669591
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , prubea fake
+https://u65464.cdn884.net:8443/hls/zz15ckophk5vu.m3u8?s=vPf8IgAsoHewXb3JGVknIQ&e=1595582883
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
+
+#EXTINF:-1 tvg-logo="imagen.jpg" , Nombre del canal
+link de video
